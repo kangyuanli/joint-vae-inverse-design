@@ -9,7 +9,7 @@ This project implements Variational Autoencoders (VAE) and a Joint VAE model wit
 - **`data_processing.py`**: Contains functions for data preprocessing, including element indexing, composition matrix creation, and feature extraction from the dataset.
 - **`requirements.txt`**: Lists the Python packages required to run the project.
 
-- You can read more about this approach in our paper: [Inverse design machine learning model for metallic glasses with good glass-forming ability and properties](http://example.com/your-paper-link](https://pubs.aip.org/aip/jap/article/135/2/025102/2932983/Inverse-design-machine-learning-model-for-metallic).
+- You can read more about this approach in our paper: [Inverse design machine learning model for metallic glasses with good glass-forming ability and properties](https://pubs.aip.org/aip/jap/article/135/2/025102/2932983/Inverse-design-machine-learning-model-for-metallic).
 
 ## Installation
 
